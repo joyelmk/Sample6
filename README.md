@@ -1,2 +1,2 @@
-# Sample6
-This is my first Github project
+This is divya kodenikiri projrct
+i have taken the right to edit this project
